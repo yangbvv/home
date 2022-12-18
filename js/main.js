@@ -93,7 +93,7 @@ $(function() {
             }, {
                 name: '推特网',
                 link: 'https://www.twitter.com/',
-                box_shadow: '#F57923',
+                box_shadow: '#00A0E9',
                 icon: 'img/twitter.png',
             }, {
                 name: 'unsplash',
