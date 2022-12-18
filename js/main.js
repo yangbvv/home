@@ -1,19 +1,11 @@
 /*
  * ALL RIGHTS RESERVED.
- *
- * 作者：酷安@_小K同學
- * 项目开始日期：2020年01月26日
- * 上次修改时间：2022年02月25日
- * 开发日志：https://kksan.top/f5404b68deeb4634b39dac0bc67ec693
- *
  * 开源相关：
- * Github：https://github.com/Jackie1123/aNavigation
  * CSSFX：https://cssfx.netlify.com
  * jQuery：https://jquery.com
  * slideout：https://slideout.js.org
  * bootstrap：https://getbootstrap.com
  * font-awesome：https://fontawesome.com
- *
  * 版权所有，请勿删除！
  */
 
@@ -485,13 +477,6 @@ class searchHint {
 const jsonp = new searchHint();
 
 /*
- * ALL RIGHTS RESERVED.
- *
- * 作者：酷安@_小K同學
- * 项目开始日期：2020年01月26日
- * 上次修改时间：2022年02月25日
- * 开发日志：https://kksan.top/f5404b68deeb4634b39dac0bc67ec693
- *
  * 开源相关：
  * Github：https://github.com/Jackie1123/aNavigation
  * CSSFX：https://cssfx.netlify.com
