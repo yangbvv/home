@@ -88,7 +88,7 @@ $(function() {
             }, {
                 name: '留园网',
                 link: 'https://www.6parkbbs.com/index.php',
-                box_shadow: '#00A0E9',
+                box_shadow: '#37bf4c',
                 icon: 'img/6park.ico',
             }, {
                 name: '知乎',
