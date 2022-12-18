@@ -86,6 +86,11 @@ $(function() {
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
             }, {
+                name: '留园网',
+                link: 'https://www.6parkbbs.com/index.php',
+                box_shadow: '#00A0E9',
+                icon: 'img/6park.ico',
+            }, {
                 name: '知乎',
                 link: 'https://www.zhihu.com/',
                 box_shadow: '#0078D8',
