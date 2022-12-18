@@ -91,10 +91,10 @@ $(function() {
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             }, {
-                name: '小米商城',
-                link: 'https://m.mi.com/',
+                name: '推特网',
+                link: 'https://www.twitter.com/',
                 box_shadow: '#F57923',
-                icon: 'img/mi.png',
+                icon: 'img/twitter.png',
             }, {
                 name: 'unsplash',
                 link: 'https://unsplash.com/',
