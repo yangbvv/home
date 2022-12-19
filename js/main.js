@@ -118,7 +118,7 @@ $(function() {
                 box_shadow: '#c5000a',
                 icon: 'img/csdn.png',
             }, {
-                name: 'XDA',
+                name: 'ChinanewsX',
                 link: 'https://www.chinanewsx.com/',
                 box_shadow: '#AC6E2F',
                 icon: 'img/chinanewsx.ico',
