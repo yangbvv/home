@@ -119,9 +119,9 @@ $(function() {
                 icon: 'img/csdn.png',
             }, {
                 name: 'XDA',
-                link: 'https://www.xda-developers.com/',
+                link: 'https://www.chinanewsx.com/',
                 box_shadow: '#AC6E2F',
-                icon: 'img/xda.png',
+                icon: 'img/chinanewsx.ico',
             }, {
                 name: '少数派',
                 link: 'https://sspai.com/',
