@@ -178,6 +178,13 @@ $(function() {
             color: '#4285f4',
             placeholder: '咕噜咕噜...'
         }, {
+            name: 'fsou',
+            icon: 'img/baidu-xs.png',
+            searchlink: 'https://fsoufsou.com/search?q=',
+            searchname: 'wd',
+            color: '#3245df',
+            placeholder: 'f搜搜'
+        }, {
             name: 'bing',
             icon: 'img/bing-xs.png',
             searchlink: 'https://cn.bing.com/search',
