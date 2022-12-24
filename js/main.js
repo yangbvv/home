@@ -180,7 +180,7 @@ $(function() {
         }, {
             name: 'fsou',
             icon: 'img/baidu-xs.png',
-            searchlink: 'https://fsoufsou.com/search?tbn=all&q=',
+            searchlink: 'https://fsoufsou.com/search',
             searchname: 'fs',
             color: '#3245df',
             placeholder: 'f搜搜'
