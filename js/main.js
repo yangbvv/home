@@ -134,7 +134,7 @@ $(function() {
                 icon: 'img/xiaozhong.png',
             }, {
                 name: 'flare主页',
-                link: 'https://home.rui.run:55555',
+                link: 'http://home.rui.run:55555',
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
