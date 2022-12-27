@@ -133,8 +133,8 @@ $(function() {
                 box_shadow: '#3279ea',
                 icon: 'img/xiaozhong.png',
             }, {
-                name: '数字尾巴',
-                link: 'https://www.dgtle.com/',
+                name: 'flare主页',
+                link: 'https://home.rui.run:55555',
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
