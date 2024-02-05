@@ -138,15 +138,15 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
-                name: 'cloudflare',
+                name: 'CloudFlare',
                 link: 'https://www.cloudflare.com/',
                 box_shadow: '#7C5DC7',
-                icon: 'img/ding.png',
+                icon: 'img/cf.png',
             }, {
-                name: 'gmail',
+                name: 'Gmail',
                 link: 'https://mail.google.com/mail/u/0/',
                 box_shadow: '#00A0E9',
-                icon: 'img/true.png',
+                icon: 'img/gmail.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
