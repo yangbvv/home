@@ -134,17 +134,17 @@ $(function() {
                 icon: 'img/xiaozhong.png',
             }, {
                 name: 'flare主页',
-                link: 'http://nav.rui.run',
+                link: 'http://flare.rui.run',
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
-                name: '疫情跟踪',
-                link: 'https://app.21jingji.com/html/2020yiqing/',
+                name: 'cloudflare',
+                link: 'https://www.cloudflare.com/',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
-                name: '疫情辟谣',
-                link: 'https://vp.fact.qq.com/home',
+                name: 'gmail',
+                link: 'https://mail.google.com/mail/u/0/',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }]
