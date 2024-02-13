@@ -99,7 +99,7 @@ $(function() {
                 icon: 'img/github.png',
             }, {
                 name: '豆瓣',
-                link: 'https://wwww.douban.com/',
+                link: 'https://www.douban.com/',
                 box_shadow: '#37bf4c',
                 icon: 'img/douban.png',
             }, {
