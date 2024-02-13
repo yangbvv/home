@@ -68,10 +68,10 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [ {
-                name: 'Via插件',
-                link: 'http://via-app.cn',
+                name: 'Greasefork',
+                link: 'https://greasyfork.org/zh-CN',
                 box_shadow: '#FA7199',
-                icon: 'img/via.png',
+                icon: 'img/greasefork.png',
             }, {
                 name: '今日热榜',
                 link: 'https://tophub.today/',
@@ -99,7 +99,7 @@ $(function() {
                 icon: 'img/github.png',
             }, {
                 name: '豆瓣',
-                link: 'https://m.douban.com/',
+                link: 'https://wwww.douban.com/',
                 box_shadow: '#37bf4c',
                 icon: 'img/douban.png',
             }, {
